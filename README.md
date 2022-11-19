@@ -71,7 +71,7 @@
 
 3. Selanjutnya jalankan file dengan cara buka terminal lalu ketikan `python List.py` dan berikut hasilnya :
 
-    ![img hasil List.py](img/list.png)
+    ![list](https://user-images.githubusercontent.com/115972485/202855265-9a49ae22-e4a7-40d4-a1ac-1d10550e19db.png)
 
 
 ## Membuat program input data mahasiswa beserta nilai dan disimpan didalam List.
@@ -139,5 +139,3 @@
     ![hasil praktium5](img/praktikum5.png)
 
     `Selesai terima kasih`
-
-    [saweria](https://saweria.co/adamwebdev)
